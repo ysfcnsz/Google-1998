@@ -1,0 +1,44 @@
+.btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 20px;
+    font-family: Georgia;
+    color: #080808;
+    font-size: 20px;
+    background: #ededed;
+    padding: 7px 15px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #d4d4d4;
+    text-decoration: none;
+  }
+
+  .bct{
+    font-family: Georgia;
+    color: #080808;
+    font-size: 16px;
+    text-decoration: none;
+  }
+  
+  .btc:hover {
+    background: #d4d4d4;
+    text-decoration: none;
+
+  }
+  .stil {
+    text-align:right; background-color:#62B3AA;
+    font-size:-1;
+
+  }
+ .table{ border-collapse: separate;
+    text-indent: initial;
+    white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-style: normal;
+    color: -internal-quirk-inherit;
+    border-spacing: 2px;
+    font-variant: normal;
+ }
